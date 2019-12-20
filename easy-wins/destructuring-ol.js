@@ -23,6 +23,7 @@ const someJSON = {
 	release_date: "2017-10-27"
 }
 
+
 // const title = someJSON.title;
 // const overview = someJSON.overview;
 // const release_date = someJSON.release_date
